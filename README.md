@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0203-remove-linked-list-elements) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0203-remove-linked-list-elements) |
+## Math
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
