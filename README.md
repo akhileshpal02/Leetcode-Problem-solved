@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0001-two-sum) |
+| [0138-copy-list-with-random-pointer](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0203-remove-linked-list-elements) |
