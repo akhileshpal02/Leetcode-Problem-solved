@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0009-palindrome-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
