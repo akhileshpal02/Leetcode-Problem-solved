@@ -12,19 +12,11 @@
 class Solution {
 public:
 
-    void check(TreeNode *root, int &count)
-    {
-        if(root==NULL)
-        return;
-
-        count++;
-        check(root->left, count);
-        check(root->right, count);
-    }
     int countNodes(TreeNode* root) {
         
-        int count=0;
-        check(root, count);
-        return count;
+        if(root==NULL)
+        return 0;
+        
+        return (1+countNodes(root->left)+countNodes(root->right));
     }
 };
