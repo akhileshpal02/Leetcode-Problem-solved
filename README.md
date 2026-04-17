@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0145-binary-tree-postorder-traversal) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0085-maximal-rectangle) |
 ## Tree
 |  |
 | ------- |
@@ -107,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0222-count-complete-tree-nodes) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
