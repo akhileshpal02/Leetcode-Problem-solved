@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0404-sum-of-left-leaves) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0404-sum-of-left-leaves) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Divide and Conquer
 |  |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0700-search-in-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0938-range-sum-of-bst) |
 ## String
