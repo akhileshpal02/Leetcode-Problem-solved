@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0503-next-greater-element-ii) |
+| [0897-increasing-order-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0897-increasing-order-search-tree) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0700-search-in-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2236-root-equals-sum-of-children) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0404-sum-of-left-leaves) |
+| [0897-increasing-order-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0700-search-in-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0938-range-sum-of-bst) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2236-root-equals-sum-of-children) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0700-search-in-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0938-range-sum-of-bst) |
 ## String
 |  |
