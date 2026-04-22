@@ -34,10 +34,12 @@ public:
         TreeNode *dummy=new TreeNode(0);
         TreeNode *temp=dummy;
         
-        for(int i=0;i<ans.size();i++)
+        int i=0;
+        while(i<ans.size())
         {
             temp->right=new TreeNode(ans[i]);
             temp=temp->right;
+            i++;
         }
         return dummy->right;
     }
