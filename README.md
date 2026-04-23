@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2236-root-equals-sum-of-children) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2236-root-equals-sum-of-children) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1382-balance-a-binary-search-tree) |
 ## String
 |  |
@@ -212,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1382-balance-a-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
