@@ -12,41 +12,18 @@
 class Solution {
 public:
 
-    void inorder(TreeNode *root, vector<int>& ans, int &index)
-    {
-        if (!root) return;
-
-        inorder(root->right, ans, index);
-
-        if (index == 0)
-            ans.push_back(root->val);
-        else
-            ans.push_back(root->val + ans[index - 1]);
-
-        index++;
-
-        inorder(root->left, ans, index);
-    }
-
-   void myinorder(TreeNode *root, vector<int>& ans, int &index)
-    {
-        if (!root) return;
-
-        // FIX: use reverse inorder here also
-        myinorder(root->right, ans, index);
-
-        root->val = ans[index++];
-
-        myinorder(root->left, ans, index);
-    }
+    int sum=0;
     TreeNode* convertBST(TreeNode* root) {
         
-        int index=0;
-        vector<int>ans;
-        inorder(root, ans ,index);
+        if(!root)
+        return NULL;
+
+        convertBST(root->right);
         
-        index=0;
-        myinorder(root, ans,index);
+        sum+=root->val;
+        root->val=sum;
+
+        convertBST(root->left);
 
         return root;
     }
