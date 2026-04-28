@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0496-next-greater-element-i](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0503-next-greater-element-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0160-intersection-of-two-linked-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0088-merge-sorted-array) |
 | [0506-relative-ranks](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0506-relative-ranks) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Heap (Priority Queue)
