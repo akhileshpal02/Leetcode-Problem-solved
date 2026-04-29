@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0696-count-binary-substrings) |
 | [3794-reverse-string-prefix](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3794-reverse-string-prefix) |
 ## Recursion
 |  |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0257-binary-tree-paths) |
+| [0696-count-binary-substrings](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0696-count-binary-substrings) |
 | [3794-reverse-string-prefix](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3794-reverse-string-prefix) |
 ## Backtracking
 |  |
