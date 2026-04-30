@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0042-trapping-rain-water) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0506-relative-ranks) |
