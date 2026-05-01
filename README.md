@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0506-relative-ranks) |
 | [0821-shortest-distance-to-a-character](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0905-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0942-di-string-match) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0905-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0942-di-string-match) |
 | [3794-reverse-string-prefix](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3794-reverse-string-prefix) |
 ## Recursion
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0257-binary-tree-paths) |
 | [0696-count-binary-substrings](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0821-shortest-distance-to-a-character) |
+| [0942-di-string-match](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0942-di-string-match) |
 | [3794-reverse-string-prefix](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3794-reverse-string-prefix) |
 ## Backtracking
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0942-di-string-match](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0942-di-string-match) |
 | [1382-balance-a-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
