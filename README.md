@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0942-di-string-match) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2396-strictly-palindromic-number) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0503-next-greater-element-ii) |
 | [0897-increasing-order-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0897-increasing-order-search-tree) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
