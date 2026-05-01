@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0942-di-string-match) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0942-di-string-match) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0942-di-string-match](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0942-di-string-match) |
 | [1382-balance-a-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1382-balance-a-binary-search-tree) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0506-relative-ranks) |
 | [0905-sort-array-by-parity](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0905-sort-array-by-parity) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
