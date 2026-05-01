@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0942-di-string-match) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2396-strictly-palindromic-number) |
 | [3794-reverse-string-prefix](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3884-first-matching-character-from-both-ends) |
 ## Recursion
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0066-plus-one) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2396-strictly-palindromic-number](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2396-strictly-palindromic-number) |
 ## Stack
 |  |
 | ------- |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2161-partition-array-according-to-given-pivot) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
