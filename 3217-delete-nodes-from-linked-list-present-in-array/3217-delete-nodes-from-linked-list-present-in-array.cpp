@@ -16,7 +16,9 @@ public:
 
         while(head!=NULL && st.count(head->val))
         {
+            
             head=head->next;
+            
         }
 
         ListNode *curr=head;
@@ -24,7 +26,9 @@ public:
         {
             if(st.count(curr->next->val))
             {
+                
                 curr->next=curr->next->next;
+                
             }
             else
             curr=curr->next;
