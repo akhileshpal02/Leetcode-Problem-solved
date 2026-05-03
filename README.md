@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
