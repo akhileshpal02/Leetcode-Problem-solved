@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0088-merge-sorted-array) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0506-relative-ranks) |
