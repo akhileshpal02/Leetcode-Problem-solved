@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0942-di-string-match) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3794-reverse-string-prefix](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3884-first-matching-character-from-both-ends) |
 ## Backtracking
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0942-di-string-match](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0942-di-string-match) |
 | [1382-balance-a-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1382-balance-a-binary-search-tree) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
