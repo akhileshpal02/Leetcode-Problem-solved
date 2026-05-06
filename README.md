@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0287-find-the-duplicate-number) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0557-reverse-words-in-a-string-iii) |
