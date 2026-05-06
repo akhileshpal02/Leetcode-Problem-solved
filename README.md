@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0503-next-greater-element-ii) |
 | [0897-increasing-order-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0897-increasing-order-search-tree) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0450-delete-node-in-a-bst) |
@@ -355,4 +359,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
