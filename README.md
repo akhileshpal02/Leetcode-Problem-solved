@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0763-partition-labels) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0763-partition-labels) |
 | [0821-shortest-distance-to-a-character](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0942-di-string-match) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0763-partition-labels) |
 | [0821-shortest-distance-to-a-character](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0942-di-string-match) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0763-partition-labels) |
 | [0942-di-string-match](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0942-di-string-match) |
 | [1382-balance-a-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
