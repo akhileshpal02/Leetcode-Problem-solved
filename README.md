@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0287-find-the-duplicate-number) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0349-intersection-of-two-arrays) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Design
 |  |
@@ -384,5 +387,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
