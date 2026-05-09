@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0942-di-string-match) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0763-partition-labels) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0905-sort-array-by-parity) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -389,4 +392,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0594-longest-harmonious-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
