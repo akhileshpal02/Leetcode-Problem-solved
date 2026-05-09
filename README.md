@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0763-partition-labels) |
+| [1763-longest-nice-substring](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1763-longest-nice-substring) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0287-find-the-duplicate-number) |
+| [1763-longest-nice-substring](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1763-longest-nice-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0148-sort-list) |
 | [1382-balance-a-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1382-balance-a-binary-search-tree) |
+| [1763-longest-nice-substring](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1763-longest-nice-substring) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0942-di-string-match) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1763-longest-nice-substring](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1763-longest-nice-substring) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3794-reverse-string-prefix](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0594-longest-harmonious-subsequence) |
+| [1763-longest-nice-substring](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1763-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
