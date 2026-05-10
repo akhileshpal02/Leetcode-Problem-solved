@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0763-partition-labels) |
 | [1763-longest-nice-substring](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1763-longest-nice-substring) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1763-longest-nice-substring](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1763-longest-nice-substring) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3794-reverse-string-prefix](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/3884-first-matching-character-from-both-ends) |
@@ -398,8 +400,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0594-longest-harmonious-subsequence) |
 | [1763-longest-nice-substring](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1763-longest-nice-substring) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0594-longest-harmonious-subsequence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
