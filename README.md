@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0283-move-zeroes) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0287-find-the-duplicate-number) |
 | [1763-longest-nice-substring](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/1763-longest-nice-substring) |
