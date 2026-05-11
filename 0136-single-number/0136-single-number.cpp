@@ -3,17 +3,16 @@ public:
     int singleNumber(vector<int>& nums) {
         
         int n=nums.size();
-        if(n<2)
-        return nums[0];
-        int ans;
+        unordered_map<int,int>ans;
+        for(int i=0;i<n;i++)
+        ans[nums[i]]++;
 
-        sort(nums.begin(),nums.end());
-        for(int i=1;i<n;i+=2)
+        for (auto it = ans.begin(); it != ans.end(); it++) 
         {
-            if(nums[i-1]!=nums[i])
-            return nums[i-1];
+            if (it->second == 1)
+            return it->first;
         }
 
-        return nums[n-1];
+        return -1;
     }
 };
