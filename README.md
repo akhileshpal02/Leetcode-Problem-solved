@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/akhileshpal02/Leetcode-Problem-solved/tree/master/0257-binary-tree-paths) |
 ## Greedy
 |  |
